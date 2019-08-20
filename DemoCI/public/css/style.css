@@ -1,0 +1,6 @@
+.pagination li a.current_page{
+    color: #fff;
+}
+.pagination li.current{
+    background-color:#007bff;
+}
